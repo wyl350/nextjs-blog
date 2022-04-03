@@ -9,5 +9,7 @@ This is possible because getStaticProps only runs on the server-side. It will ne
 
 To use Server-side Rendering, you need to export getServerSideProps instead of getStaticProps from your page.
 
-## 
+## ServerLess Functions 
+
+地址 : https://zhuanlan.zhihu.com/p/99175443
 
